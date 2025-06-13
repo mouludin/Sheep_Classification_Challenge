@@ -45,7 +45,7 @@ Load image-label pairs and preview the label distribution.
 Apply sampling to ensure class balance for better model training.
 ### - Visualize Sample Images
 Display a few images per class to understand visual features.
-### - Model Training (CNN models
+### - Model Training (CNN models)
 ### - Evaluation and Submission (Plot accuracy, precision, etc.)
 
 ## 🚀 Getting Started
