@@ -1,0 +1,10 @@
+pandas
+matplotlib
+scikit-learn
+numpy
+ipython
+jupyter
+
+torch
+torchvision
+torchaudio
