@@ -28,7 +28,7 @@ kaggle competitions download -c sheep-classification-challenge-2025
 unzip sheep-classification-challenge-2025.zip
 ```
 
-## 🗂️ Download Dataset
+## 🗂️ Project Structure
 ```
 ├── train/                  # Training images
 ├── test/                   # Test images (optional, depends on Kaggle setup)
