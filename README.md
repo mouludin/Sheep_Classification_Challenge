@@ -29,38 +29,34 @@ unzip sheep-classification-challenge-2025.zip
 ```
 
 ## 🗂️ Download Dataset
+```
 ├── train/                  # Training images
 ├── test/                   # Test images (optional, depends on Kaggle setup)
 ├── train_labels.csv        # CSV with image filenames and breed labels
 ├── model.ipynb             # Notebook with explanations and annotations
 ├── requirements.txt        # Python dependencies
 └── README.md               # This file
-
+```
 ## 📖 Notebook Overview
 The main steps in model_with_markdown.ipynb:
-
-Load and Inspect Dataset
+### - Load and Inspect Dataset
 Load image-label pairs and preview the label distribution.
-
-Balance Dataset
+### - Balance Dataset
 Apply sampling to ensure class balance for better model training.
-
-Visualize Sample Images
+### - Visualize Sample Images
 Display a few images per class to understand visual features.
-
-Model Training (CNN models)
-
-Evaluation and Submission (Plot accuracy, precision, etc.)
+### - Model Training (CNN models
+### - Evaluation and Submission (Plot accuracy, precision, etc.)
 
 ## 🚀 Getting Started
 ### Requirements
-Python 3.8+
-Jupyter Notebook
-Libraries:
-pandas
-matplotlib
-scikit-learn
-tensorflow or torch (optional for model training)
+- Python 3.8+
+- Jupyter Notebook
+- Libraries:
+- pandas
+- matplotlib
+- scikit-learn
+- PyTorch (for model training)
 
 ### Installation
 ```bash
