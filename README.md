@@ -50,10 +50,10 @@ Display a few images per class to understand visual features.
 
 ## 🚀 Getting Started
 ### Requirements
-Software
+#### Software
 - Python 3.8+
 - Jupyter Notebook
-Libraries:
+#### Libraries:
 - pandas
 - matplotlib
 - scikit-learn
