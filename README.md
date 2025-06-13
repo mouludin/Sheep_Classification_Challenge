@@ -26,6 +26,7 @@ To download the dataset, make sure you have installed and authenticated the **Ka
 pip install kaggle
 kaggle competitions download -c sheep-classification-challenge-2025
 unzip sheep-classification-challenge-2025.zip
+```
 
 ## 🗂️ Download Dataset
 ├── train/                  # Training images
@@ -64,6 +65,7 @@ tensorflow or torch (optional for model training)
 ### Installation
 ```bash
 pip install -r requirements.txt
+```
 
 
 ## 🙏 Acknowledgements
